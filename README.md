@@ -50,24 +50,27 @@ https://documenter.getpostman.com/view/53124802/2sBXiesuH6#15086650-0a7c-4a15-af
 
 ## 📦 Instalação
 
-- Clone o repositório
+```bash
+# Clone o repositório
 git clone https://github.com/Juanlucasarchangelo/web-construp.git
 
-- Acesse o diretório
+# Acesse o diretório
 cd web-construp
 
-- Instale as dependências
+# Instale as dependências
 npm install
 Rodar o projeto
 
-Após instalar as dependências, execute:
+# Após instalar as dependências, execute:
 
 npm run dev
 
-A aplicação estará disponível em:
+# A aplicação estará disponível em:
 
 http://localhost:5173
-Observação
+
+```
+## Observação
 
 Este projeto consome uma API externa desenvolvida em Laravel.
 Para funcionamento completo do CRUD, é necessário que a API esteja rodando localmente em:
