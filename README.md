@@ -22,7 +22,6 @@
 ## 📖 Visão Geral
 
 Este projeto tem como objetivo demonstrar uma fração das minhas habilidades em programação usando as linguagens citadas abaixo.  
-Para facilitar a análise do teste, dentro da pasta @files disponibilizei uma collection do POSTMAN já com as rotas configuradas para teste da API.
 
 Segue também documentação feita para caso haja dúvidas:  
 https://documenter.getpostman.com/view/53124802/2sBXiesuH6#15086650-0a7c-4a15-af9d-513c7e62bae8
