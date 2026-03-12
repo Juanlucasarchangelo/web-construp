@@ -51,13 +51,13 @@ https://documenter.getpostman.com/view/53124802/2sBXiesuH6#15086650-0a7c-4a15-af
 
 ## 📦 Instalação
 
-# Clone o repositório
+- Clone o repositório
 git clone https://github.com/Juanlucasarchangelo/web-construp.git
 
-# Acesse o diretório
+- Acesse o diretório
 cd web-construp
 
-# Instale as dependências
+- Instale as dependências
 npm install
 Rodar o projeto
 
