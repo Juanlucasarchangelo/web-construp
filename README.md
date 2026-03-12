@@ -74,5 +74,3 @@ Este projeto consome uma API externa desenvolvida em Laravel.
 Para funcionamento completo do CRUD, é necessário que a API esteja rodando localmente em:
 
 http://127.0.0.1:8000
-
-A collection do Postman disponibilizada na pasta /files pode ser utilizada para testar os endpoints da API separadamente.
