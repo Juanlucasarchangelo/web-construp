@@ -1,7 +1,8 @@
 <script setup lang="ts">
+import BaseButton from "@/components/BaseButton.vue";
 defineProps<{
-  msg: string
-}>()
+  msg: string;
+}>();
 </script>
 
 <template>
@@ -11,7 +12,12 @@ defineProps<{
       Sistema para gerenciamento de estoque desenvolvido com
       <a href="https://vite.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
+      <br />
+      Para começar, clique no botão abaixo para acessar a lista de produtos.
     </h3>
+  </div>
+  <div>
+    <BaseButton link="/produtos"> Ver produtos </BaseButton>
   </div>
 </template>
 
