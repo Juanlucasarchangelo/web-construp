@@ -51,7 +51,6 @@ https://documenter.getpostman.com/view/53124802/2sBXiesuH6#15086650-0a7c-4a15-af
 
 ## 📦 Instalação
 
-```bash
 # Clone o repositório
 git clone https://github.com/Juanlucasarchangelo/web-construp.git
 
@@ -59,18 +58,21 @@ git clone https://github.com/Juanlucasarchangelo/web-construp.git
 cd web-construp
 
 # Instale as dependências
-composer install --ignore-platform-reqs
-npm install --ignore-platform-reqs
+npm install
+Rodar o projeto
 
-# Configure o .env
-cp .env.example .env
-php artisan key:generate
+Após instalar as dependências, execute:
 
-# Crie uma variável dentro do .env
-API_TOKEN='159357'
+npm run dev
 
-# Rode a migration junto com as seeders
-php artisan migrate --seed
+A aplicação estará disponível em:
 
-# Rode o serve para subir a aplicação
-php artisan serve
+http://localhost:5173
+Observação
+
+Este projeto consome uma API externa desenvolvida em Laravel.
+Para funcionamento completo do CRUD, é necessário que a API esteja rodando localmente em:
+
+http://127.0.0.1:8000
+
+A collection do Postman disponibilizada na pasta /files pode ser utilizada para testar os endpoints da API separadamente.
