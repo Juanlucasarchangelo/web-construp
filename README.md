@@ -35,8 +35,8 @@ https://documenter.getpostman.com/view/53124802/2sBXiesuH6#15086650-0a7c-4a15-af
 ## 🚀 Tecnologias Utilizadas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="Php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="30" alt="Vite logo" />
   <img width="12" />
 </div>
 
